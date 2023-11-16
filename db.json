@@ -1,25 +1,25 @@
 {
   "pytania":[
 {
-"tresc":"Stolicą Polski było",
-"odpa":"Wilkowyje",
-"odpb":"Gniezno",
-"odpc":"Kowno",
+"tresc":"Jaki jest najrzadszy kurczak w stardewie",
+"odpa":"Tan",
+"odpb":"Blue",
+"odpc":"Rainbow",
 "poprawna":1
 },
 {
-"tresc":"Prezydentem Polski był",
-"odpa":"Jarosław Kaczyński",
-"odpb":"Lecha Wałęsa",
-"odpc":"Paweł Kozioł",
-"poprawna":1
-},
-{
-"tresc":"Ostatnie wybory to wybory",
-"odpa":"parlamentarne",
-"odpb":"prezydenckie",
-"odpc":"samorządowe",
+"tresc":"Najlepszym polskim bohaterem jest",
+"odpa":"Artur który ratuje policjanta w serialu Na Sygnale odcinek 456 pod tytułem Trupem Padne",
+"odpb":"Nie wiem co tu wpisać",
+"odpc":"Andrzej Duda",
 "poprawna":0
+},
+{
+"tresc":"Jak nazwiesz psa w stardewie",
+"odpa":"Pomidor",
+"odpb":"Pedro",
+"odpc":"Księżniczka",
+"poprawna":2
 }
 ]
 
